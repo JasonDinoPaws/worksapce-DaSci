@@ -1,0 +1,892 @@
+id,survived,pclass,sex,age,sibsp,parch,fare,embarked,class,who,adult_male,deck,embark_town,alive,alone
+0,did not survive,3,male,22.0,1,0,7.25,S,Third,man,True,,Southampton,no,False
+1,survived,1,female,38.0,1,0,71.2833,C,First,woman,False,C,Cherbourg,yes,False
+2,survived,3,female,26.0,0,0,7.925,S,Third,woman,False,,Southampton,yes,True
+3,survived,1,female,35.0,1,0,53.1,S,First,woman,False,C,Southampton,yes,False
+4,did not survive,3,male,35.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+5,did not survive,3,male,,0,0,8.4583,Q,Third,man,True,,Queenstown,no,True
+6,did not survive,1,male,54.0,0,0,51.8625,S,First,man,True,E,Southampton,no,True
+7,did not survive,3,male,2.0,3,1,21.075,S,Third,child,False,,Southampton,no,False
+8,survived,3,female,27.0,0,2,11.1333,S,Third,woman,False,,Southampton,yes,False
+9,survived,2,female,14.0,1,0,30.0708,C,Second,child,False,,Cherbourg,yes,False
+10,survived,3,female,4.0,1,1,16.7,S,Third,child,False,G,Southampton,yes,False
+11,survived,1,female,58.0,0,0,26.55,S,First,woman,False,C,Southampton,yes,True
+12,did not survive,3,male,20.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+13,did not survive,3,male,39.0,1,5,31.275,S,Third,man,True,,Southampton,no,False
+14,did not survive,3,female,14.0,0,0,7.8542,S,Third,child,False,,Southampton,no,True
+15,survived,2,female,55.0,0,0,16.0,S,Second,woman,False,,Southampton,yes,True
+16,did not survive,3,male,2.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False
+17,survived,2,male,,0,0,13.0,S,Second,man,True,,Southampton,yes,True
+18,did not survive,3,female,31.0,1,0,18.0,S,Third,woman,False,,Southampton,no,False
+19,survived,3,female,,0,0,7.225,C,Third,woman,False,,Cherbourg,yes,True
+20,did not survive,2,male,35.0,0,0,26.0,S,Second,man,True,,Southampton,no,True
+21,survived,2,male,34.0,0,0,13.0,S,Second,man,True,D,Southampton,yes,True
+22,survived,3,female,15.0,0,0,8.0292,Q,Third,child,False,,Queenstown,yes,True
+23,survived,1,male,28.0,0,0,35.5,S,First,man,True,A,Southampton,yes,True
+24,did not survive,3,female,8.0,3,1,21.075,S,Third,child,False,,Southampton,no,False
+25,survived,3,female,38.0,1,5,31.3875,S,Third,woman,False,,Southampton,yes,False
+26,did not survive,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+27,did not survive,1,male,19.0,3,2,263.0,S,First,man,True,C,Southampton,no,False
+28,survived,3,female,,0,0,7.8792,Q,Third,woman,False,,Queenstown,yes,True
+29,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+30,did not survive,1,male,40.0,0,0,27.7208,C,First,man,True,,Cherbourg,no,True
+31,survived,1,female,,1,0,146.5208,C,First,woman,False,B,Cherbourg,yes,False
+32,survived,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+33,did not survive,2,male,66.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+34,did not survive,1,male,28.0,1,0,82.1708,C,First,man,True,,Cherbourg,no,False
+35,did not survive,1,male,42.0,1,0,52.0,S,First,man,True,,Southampton,no,False
+36,survived,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,yes,True
+37,did not survive,3,male,21.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+38,did not survive,3,female,18.0,2,0,18.0,S,Third,woman,False,,Southampton,no,False
+39,survived,3,female,14.0,1,0,11.2417,C,Third,child,False,,Cherbourg,yes,False
+40,did not survive,3,female,40.0,1,0,9.475,S,Third,woman,False,,Southampton,no,False
+41,did not survive,2,female,27.0,1,0,21.0,S,Second,woman,False,,Southampton,no,False
+42,did not survive,3,male,,0,0,7.8958,C,Third,man,True,,Cherbourg,no,True
+43,survived,2,female,3.0,1,2,41.5792,C,Second,child,False,,Cherbourg,yes,False
+44,survived,3,female,19.0,0,0,7.8792,Q,Third,woman,False,,Queenstown,yes,True
+45,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+46,did not survive,3,male,,1,0,15.5,Q,Third,man,True,,Queenstown,no,False
+47,survived,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+48,did not survive,3,male,,2,0,21.6792,C,Third,man,True,,Cherbourg,no,False
+49,did not survive,3,female,18.0,1,0,17.8,S,Third,woman,False,,Southampton,no,False
+50,did not survive,3,male,7.0,4,1,39.6875,S,Third,child,False,,Southampton,no,False
+51,did not survive,3,male,21.0,0,0,7.8,S,Third,man,True,,Southampton,no,True
+52,survived,1,female,49.0,1,0,76.7292,C,First,woman,False,D,Cherbourg,yes,False
+53,survived,2,female,29.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False
+54,did not survive,1,male,65.0,0,1,61.9792,C,First,man,True,B,Cherbourg,no,False
+55,survived,1,male,,0,0,35.5,S,First,man,True,C,Southampton,yes,True
+56,survived,2,female,21.0,0,0,10.5,S,Second,woman,False,,Southampton,yes,True
+57,did not survive,3,male,28.5,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+58,survived,2,female,5.0,1,2,27.75,S,Second,child,False,,Southampton,yes,False
+59,did not survive,3,male,11.0,5,2,46.9,S,Third,child,False,,Southampton,no,False
+60,did not survive,3,male,22.0,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+61,survived,1,female,38.0,0,0,80.0,,First,woman,False,B,,yes,True
+62,did not survive,1,male,45.0,1,0,83.475,S,First,man,True,C,Southampton,no,False
+63,did not survive,3,male,4.0,3,2,27.9,S,Third,child,False,,Southampton,no,False
+64,did not survive,1,male,,0,0,27.7208,C,First,man,True,,Cherbourg,no,True
+65,survived,3,male,,1,1,15.2458,C,Third,man,True,,Cherbourg,yes,False
+66,survived,2,female,29.0,0,0,10.5,S,Second,woman,False,F,Southampton,yes,True
+67,did not survive,3,male,19.0,0,0,8.1583,S,Third,man,True,,Southampton,no,True
+68,survived,3,female,17.0,4,2,7.925,S,Third,woman,False,,Southampton,yes,False
+69,did not survive,3,male,26.0,2,0,8.6625,S,Third,man,True,,Southampton,no,False
+70,did not survive,2,male,32.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+71,did not survive,3,female,16.0,5,2,46.9,S,Third,woman,False,,Southampton,no,False
+72,did not survive,2,male,21.0,0,0,73.5,S,Second,man,True,,Southampton,no,True
+73,did not survive,3,male,26.0,1,0,14.4542,C,Third,man,True,,Cherbourg,no,False
+74,survived,3,male,32.0,0,0,56.4958,S,Third,man,True,,Southampton,yes,True
+75,did not survive,3,male,25.0,0,0,7.65,S,Third,man,True,F,Southampton,no,True
+76,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+77,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+78,survived,2,male,0.83,0,2,29.0,S,Second,child,False,,Southampton,yes,False
+79,survived,3,female,30.0,0,0,12.475,S,Third,woman,False,,Southampton,yes,True
+80,did not survive,3,male,22.0,0,0,9.0,S,Third,man,True,,Southampton,no,True
+81,survived,3,male,29.0,0,0,9.5,S,Third,man,True,,Southampton,yes,True
+82,survived,3,female,,0,0,7.7875,Q,Third,woman,False,,Queenstown,yes,True
+83,did not survive,1,male,28.0,0,0,47.1,S,First,man,True,,Southampton,no,True
+84,survived,2,female,17.0,0,0,10.5,S,Second,woman,False,,Southampton,yes,True
+85,survived,3,female,33.0,3,0,15.85,S,Third,woman,False,,Southampton,yes,False
+86,did not survive,3,male,16.0,1,3,34.375,S,Third,man,True,,Southampton,no,False
+87,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+88,survived,1,female,23.0,3,2,263.0,S,First,woman,False,C,Southampton,yes,False
+89,did not survive,3,male,24.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+90,did not survive,3,male,29.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+91,did not survive,3,male,20.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True
+92,did not survive,1,male,46.0,1,0,61.175,S,First,man,True,E,Southampton,no,False
+93,did not survive,3,male,26.0,1,2,20.575,S,Third,man,True,,Southampton,no,False
+94,did not survive,3,male,59.0,0,0,7.25,S,Third,man,True,,Southampton,no,True
+95,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+96,did not survive,1,male,71.0,0,0,34.6542,C,First,man,True,A,Cherbourg,no,True
+97,survived,1,male,23.0,0,1,63.3583,C,First,man,True,D,Cherbourg,yes,False
+98,survived,2,female,34.0,0,1,23.0,S,Second,woman,False,,Southampton,yes,False
+99,did not survive,2,male,34.0,1,0,26.0,S,Second,man,True,,Southampton,no,False
+100,did not survive,3,female,28.0,0,0,7.8958,S,Third,woman,False,,Southampton,no,True
+101,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+102,did not survive,1,male,21.0,0,1,77.2875,S,First,man,True,D,Southampton,no,False
+103,did not survive,3,male,33.0,0,0,8.6542,S,Third,man,True,,Southampton,no,True
+104,did not survive,3,male,37.0,2,0,7.925,S,Third,man,True,,Southampton,no,False
+105,did not survive,3,male,28.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+106,survived,3,female,21.0,0,0,7.65,S,Third,woman,False,,Southampton,yes,True
+107,survived,3,male,,0,0,7.775,S,Third,man,True,,Southampton,yes,True
+108,did not survive,3,male,38.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+109,survived,3,female,,1,0,24.15,Q,Third,woman,False,,Queenstown,yes,False
+110,did not survive,1,male,47.0,0,0,52.0,S,First,man,True,C,Southampton,no,True
+111,did not survive,3,female,14.5,1,0,14.4542,C,Third,child,False,,Cherbourg,no,False
+112,did not survive,3,male,22.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+113,did not survive,3,female,20.0,1,0,9.825,S,Third,woman,False,,Southampton,no,False
+114,did not survive,3,female,17.0,0,0,14.4583,C,Third,woman,False,,Cherbourg,no,True
+115,did not survive,3,male,21.0,0,0,7.925,S,Third,man,True,,Southampton,no,True
+116,did not survive,3,male,70.5,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+117,did not survive,2,male,29.0,1,0,21.0,S,Second,man,True,,Southampton,no,False
+118,did not survive,1,male,24.0,0,1,247.5208,C,First,man,True,B,Cherbourg,no,False
+119,did not survive,3,female,2.0,4,2,31.275,S,Third,child,False,,Southampton,no,False
+120,did not survive,2,male,21.0,2,0,73.5,S,Second,man,True,,Southampton,no,False
+121,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+122,did not survive,2,male,32.5,1,0,30.0708,C,Second,man,True,,Cherbourg,no,False
+123,survived,2,female,32.5,0,0,13.0,S,Second,woman,False,E,Southampton,yes,True
+124,did not survive,1,male,54.0,0,1,77.2875,S,First,man,True,D,Southampton,no,False
+125,survived,3,male,12.0,1,0,11.2417,C,Third,child,False,,Cherbourg,yes,False
+126,did not survive,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+127,survived,3,male,24.0,0,0,7.1417,S,Third,man,True,,Southampton,yes,True
+128,survived,3,female,,1,1,22.3583,C,Third,woman,False,F,Cherbourg,yes,False
+129,did not survive,3,male,45.0,0,0,6.975,S,Third,man,True,,Southampton,no,True
+130,did not survive,3,male,33.0,0,0,7.8958,C,Third,man,True,,Cherbourg,no,True
+131,did not survive,3,male,20.0,0,0,7.05,S,Third,man,True,,Southampton,no,True
+132,did not survive,3,female,47.0,1,0,14.5,S,Third,woman,False,,Southampton,no,False
+133,survived,2,female,29.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False
+134,did not survive,2,male,25.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+135,did not survive,2,male,23.0,0,0,15.0458,C,Second,man,True,,Cherbourg,no,True
+136,survived,1,female,19.0,0,2,26.2833,S,First,woman,False,D,Southampton,yes,False
+137,did not survive,1,male,37.0,1,0,53.1,S,First,man,True,C,Southampton,no,False
+138,did not survive,3,male,16.0,0,0,9.2167,S,Third,man,True,,Southampton,no,True
+139,did not survive,1,male,24.0,0,0,79.2,C,First,man,True,B,Cherbourg,no,True
+140,did not survive,3,female,,0,2,15.2458,C,Third,woman,False,,Cherbourg,no,False
+141,survived,3,female,22.0,0,0,7.75,S,Third,woman,False,,Southampton,yes,True
+142,survived,3,female,24.0,1,0,15.85,S,Third,woman,False,,Southampton,yes,False
+143,did not survive,3,male,19.0,0,0,6.75,Q,Third,man,True,,Queenstown,no,True
+144,did not survive,2,male,18.0,0,0,11.5,S,Second,man,True,,Southampton,no,True
+145,did not survive,2,male,19.0,1,1,36.75,S,Second,man,True,,Southampton,no,False
+146,survived,3,male,27.0,0,0,7.7958,S,Third,man,True,,Southampton,yes,True
+147,did not survive,3,female,9.0,2,2,34.375,S,Third,child,False,,Southampton,no,False
+148,did not survive,2,male,36.5,0,2,26.0,S,Second,man,True,F,Southampton,no,False
+149,did not survive,2,male,42.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+150,did not survive,2,male,51.0,0,0,12.525,S,Second,man,True,,Southampton,no,True
+151,survived,1,female,22.0,1,0,66.6,S,First,woman,False,C,Southampton,yes,False
+152,did not survive,3,male,55.5,0,0,8.05,S,Third,man,True,,Southampton,no,True
+153,did not survive,3,male,40.5,0,2,14.5,S,Third,man,True,,Southampton,no,False
+154,did not survive,3,male,,0,0,7.3125,S,Third,man,True,,Southampton,no,True
+155,did not survive,1,male,51.0,0,1,61.3792,C,First,man,True,,Cherbourg,no,False
+156,survived,3,female,16.0,0,0,7.7333,Q,Third,woman,False,,Queenstown,yes,True
+157,did not survive,3,male,30.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+158,did not survive,3,male,,0,0,8.6625,S,Third,man,True,,Southampton,no,True
+159,did not survive,3,male,,8,2,69.55,S,Third,man,True,,Southampton,no,False
+160,did not survive,3,male,44.0,0,1,16.1,S,Third,man,True,,Southampton,no,False
+161,survived,2,female,40.0,0,0,15.75,S,Second,woman,False,,Southampton,yes,True
+162,did not survive,3,male,26.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+163,did not survive,3,male,17.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True
+164,did not survive,3,male,1.0,4,1,39.6875,S,Third,child,False,,Southampton,no,False
+165,survived,3,male,9.0,0,2,20.525,S,Third,child,False,,Southampton,yes,False
+166,survived,1,female,,0,1,55.0,S,First,woman,False,E,Southampton,yes,False
+167,did not survive,3,female,45.0,1,4,27.9,S,Third,woman,False,,Southampton,no,False
+168,did not survive,1,male,,0,0,25.925,S,First,man,True,,Southampton,no,True
+169,did not survive,3,male,28.0,0,0,56.4958,S,Third,man,True,,Southampton,no,True
+170,did not survive,1,male,61.0,0,0,33.5,S,First,man,True,B,Southampton,no,True
+171,did not survive,3,male,4.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False
+172,survived,3,female,1.0,1,1,11.1333,S,Third,child,False,,Southampton,yes,False
+173,did not survive,3,male,21.0,0,0,7.925,S,Third,man,True,,Southampton,no,True
+174,did not survive,1,male,56.0,0,0,30.6958,C,First,man,True,A,Cherbourg,no,True
+175,did not survive,3,male,18.0,1,1,7.8542,S,Third,man,True,,Southampton,no,False
+176,did not survive,3,male,,3,1,25.4667,S,Third,man,True,,Southampton,no,False
+177,did not survive,1,female,50.0,0,0,28.7125,C,First,woman,False,C,Cherbourg,no,True
+178,did not survive,2,male,30.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+179,did not survive,3,male,36.0,0,0,0.0,S,Third,man,True,,Southampton,no,True
+180,did not survive,3,female,,8,2,69.55,S,Third,woman,False,,Southampton,no,False
+181,did not survive,2,male,,0,0,15.05,C,Second,man,True,,Cherbourg,no,True
+182,did not survive,3,male,9.0,4,2,31.3875,S,Third,child,False,,Southampton,no,False
+183,survived,2,male,1.0,2,1,39.0,S,Second,child,False,F,Southampton,yes,False
+184,survived,3,female,4.0,0,2,22.025,S,Third,child,False,,Southampton,yes,False
+185,did not survive,1,male,,0,0,50.0,S,First,man,True,A,Southampton,no,True
+186,survived,3,female,,1,0,15.5,Q,Third,woman,False,,Queenstown,yes,False
+187,survived,1,male,45.0,0,0,26.55,S,First,man,True,,Southampton,yes,True
+188,did not survive,3,male,40.0,1,1,15.5,Q,Third,man,True,,Queenstown,no,False
+189,did not survive,3,male,36.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+190,survived,2,female,32.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True
+191,did not survive,2,male,19.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+192,survived,3,female,19.0,1,0,7.8542,S,Third,woman,False,,Southampton,yes,False
+193,survived,2,male,3.0,1,1,26.0,S,Second,child,False,F,Southampton,yes,False
+194,survived,1,female,44.0,0,0,27.7208,C,First,woman,False,B,Cherbourg,yes,True
+195,survived,1,female,58.0,0,0,146.5208,C,First,woman,False,B,Cherbourg,yes,True
+196,did not survive,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+197,did not survive,3,male,42.0,0,1,8.4042,S,Third,man,True,,Southampton,no,False
+198,survived,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+199,did not survive,2,female,24.0,0,0,13.0,S,Second,woman,False,,Southampton,no,True
+200,did not survive,3,male,28.0,0,0,9.5,S,Third,man,True,,Southampton,no,True
+201,did not survive,3,male,,8,2,69.55,S,Third,man,True,,Southampton,no,False
+202,did not survive,3,male,34.0,0,0,6.4958,S,Third,man,True,,Southampton,no,True
+203,did not survive,3,male,45.5,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+204,survived,3,male,18.0,0,0,8.05,S,Third,man,True,,Southampton,yes,True
+205,did not survive,3,female,2.0,0,1,10.4625,S,Third,child,False,G,Southampton,no,False
+206,did not survive,3,male,32.0,1,0,15.85,S,Third,man,True,,Southampton,no,False
+207,survived,3,male,26.0,0,0,18.7875,C,Third,man,True,,Cherbourg,yes,True
+208,survived,3,female,16.0,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+209,survived,1,male,40.0,0,0,31.0,C,First,man,True,A,Cherbourg,yes,True
+210,did not survive,3,male,24.0,0,0,7.05,S,Third,man,True,,Southampton,no,True
+211,survived,2,female,35.0,0,0,21.0,S,Second,woman,False,,Southampton,yes,True
+212,did not survive,3,male,22.0,0,0,7.25,S,Third,man,True,,Southampton,no,True
+213,did not survive,2,male,30.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+214,did not survive,3,male,,1,0,7.75,Q,Third,man,True,,Queenstown,no,False
+215,survived,1,female,31.0,1,0,113.275,C,First,woman,False,D,Cherbourg,yes,False
+216,survived,3,female,27.0,0,0,7.925,S,Third,woman,False,,Southampton,yes,True
+217,did not survive,2,male,42.0,1,0,27.0,S,Second,man,True,,Southampton,no,False
+218,survived,1,female,32.0,0,0,76.2917,C,First,woman,False,D,Cherbourg,yes,True
+219,did not survive,2,male,30.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+220,survived,3,male,16.0,0,0,8.05,S,Third,man,True,,Southampton,yes,True
+221,did not survive,2,male,27.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+222,did not survive,3,male,51.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+223,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+224,survived,1,male,38.0,1,0,90.0,S,First,man,True,C,Southampton,yes,False
+225,did not survive,3,male,22.0,0,0,9.35,S,Third,man,True,,Southampton,no,True
+226,survived,2,male,19.0,0,0,10.5,S,Second,man,True,,Southampton,yes,True
+227,did not survive,3,male,20.5,0,0,7.25,S,Third,man,True,,Southampton,no,True
+228,did not survive,2,male,18.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+229,did not survive,3,female,,3,1,25.4667,S,Third,woman,False,,Southampton,no,False
+230,survived,1,female,35.0,1,0,83.475,S,First,woman,False,C,Southampton,yes,False
+231,did not survive,3,male,29.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+232,did not survive,2,male,59.0,0,0,13.5,S,Second,man,True,,Southampton,no,True
+233,survived,3,female,5.0,4,2,31.3875,S,Third,child,False,,Southampton,yes,False
+234,did not survive,2,male,24.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+235,did not survive,3,female,,0,0,7.55,S,Third,woman,False,,Southampton,no,True
+236,did not survive,2,male,44.0,1,0,26.0,S,Second,man,True,,Southampton,no,False
+237,survived,2,female,8.0,0,2,26.25,S,Second,child,False,,Southampton,yes,False
+238,did not survive,2,male,19.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+239,did not survive,2,male,33.0,0,0,12.275,S,Second,man,True,,Southampton,no,True
+240,did not survive,3,female,,1,0,14.4542,C,Third,woman,False,,Cherbourg,no,False
+241,survived,3,female,,1,0,15.5,Q,Third,woman,False,,Queenstown,yes,False
+242,did not survive,2,male,29.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+243,did not survive,3,male,22.0,0,0,7.125,S,Third,man,True,,Southampton,no,True
+244,did not survive,3,male,30.0,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+245,did not survive,1,male,44.0,2,0,90.0,Q,First,man,True,C,Queenstown,no,False
+246,did not survive,3,female,25.0,0,0,7.775,S,Third,woman,False,,Southampton,no,True
+247,survived,2,female,24.0,0,2,14.5,S,Second,woman,False,,Southampton,yes,False
+248,survived,1,male,37.0,1,1,52.5542,S,First,man,True,D,Southampton,yes,False
+249,did not survive,2,male,54.0,1,0,26.0,S,Second,man,True,,Southampton,no,False
+250,did not survive,3,male,,0,0,7.25,S,Third,man,True,,Southampton,no,True
+251,did not survive,3,female,29.0,1,1,10.4625,S,Third,woman,False,G,Southampton,no,False
+252,did not survive,1,male,62.0,0,0,26.55,S,First,man,True,C,Southampton,no,True
+253,did not survive,3,male,30.0,1,0,16.1,S,Third,man,True,,Southampton,no,False
+254,did not survive,3,female,41.0,0,2,20.2125,S,Third,woman,False,,Southampton,no,False
+255,survived,3,female,29.0,0,2,15.2458,C,Third,woman,False,,Cherbourg,yes,False
+256,survived,1,female,,0,0,79.2,C,First,woman,False,,Cherbourg,yes,True
+257,survived,1,female,30.0,0,0,86.5,S,First,woman,False,B,Southampton,yes,True
+258,survived,1,female,35.0,0,0,512.3292,C,First,woman,False,,Cherbourg,yes,True
+259,survived,2,female,50.0,0,1,26.0,S,Second,woman,False,,Southampton,yes,False
+260,did not survive,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+261,survived,3,male,3.0,4,2,31.3875,S,Third,child,False,,Southampton,yes,False
+262,did not survive,1,male,52.0,1,1,79.65,S,First,man,True,E,Southampton,no,False
+263,did not survive,1,male,40.0,0,0,0.0,S,First,man,True,B,Southampton,no,True
+264,did not survive,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,no,True
+265,did not survive,2,male,36.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+266,did not survive,3,male,16.0,4,1,39.6875,S,Third,man,True,,Southampton,no,False
+267,survived,3,male,25.0,1,0,7.775,S,Third,man,True,,Southampton,yes,False
+268,survived,1,female,58.0,0,1,153.4625,S,First,woman,False,C,Southampton,yes,False
+269,survived,1,female,35.0,0,0,135.6333,S,First,woman,False,C,Southampton,yes,True
+270,did not survive,1,male,,0,0,31.0,S,First,man,True,,Southampton,no,True
+271,survived,3,male,25.0,0,0,0.0,S,Third,man,True,,Southampton,yes,True
+272,survived,2,female,41.0,0,1,19.5,S,Second,woman,False,,Southampton,yes,False
+273,did not survive,1,male,37.0,0,1,29.7,C,First,man,True,C,Cherbourg,no,False
+274,survived,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+275,survived,1,female,63.0,1,0,77.9583,S,First,woman,False,D,Southampton,yes,False
+276,did not survive,3,female,45.0,0,0,7.75,S,Third,woman,False,,Southampton,no,True
+277,did not survive,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True
+278,did not survive,3,male,7.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False
+279,survived,3,female,35.0,1,1,20.25,S,Third,woman,False,,Southampton,yes,False
+280,did not survive,3,male,65.0,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+281,did not survive,3,male,28.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True
+282,did not survive,3,male,16.0,0,0,9.5,S,Third,man,True,,Southampton,no,True
+283,survived,3,male,19.0,0,0,8.05,S,Third,man,True,,Southampton,yes,True
+284,did not survive,1,male,,0,0,26.0,S,First,man,True,A,Southampton,no,True
+285,did not survive,3,male,33.0,0,0,8.6625,C,Third,man,True,,Cherbourg,no,True
+286,survived,3,male,30.0,0,0,9.5,S,Third,man,True,,Southampton,yes,True
+287,did not survive,3,male,22.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+288,survived,2,male,42.0,0,0,13.0,S,Second,man,True,,Southampton,yes,True
+289,survived,3,female,22.0,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+290,survived,1,female,26.0,0,0,78.85,S,First,woman,False,,Southampton,yes,True
+291,survived,1,female,19.0,1,0,91.0792,C,First,woman,False,B,Cherbourg,yes,False
+292,did not survive,2,male,36.0,0,0,12.875,C,Second,man,True,D,Cherbourg,no,True
+293,did not survive,3,female,24.0,0,0,8.85,S,Third,woman,False,,Southampton,no,True
+294,did not survive,3,male,24.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+295,did not survive,1,male,,0,0,27.7208,C,First,man,True,,Cherbourg,no,True
+296,did not survive,3,male,23.5,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+297,did not survive,1,female,2.0,1,2,151.55,S,First,child,False,C,Southampton,no,False
+298,survived,1,male,,0,0,30.5,S,First,man,True,C,Southampton,yes,True
+299,survived,1,female,50.0,0,1,247.5208,C,First,woman,False,B,Cherbourg,yes,False
+300,survived,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+301,survived,3,male,,2,0,23.25,Q,Third,man,True,,Queenstown,yes,False
+302,did not survive,3,male,19.0,0,0,0.0,S,Third,man,True,,Southampton,no,True
+303,survived,2,female,,0,0,12.35,Q,Second,woman,False,E,Queenstown,yes,True
+304,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+305,survived,1,male,0.92,1,2,151.55,S,First,child,False,C,Southampton,yes,False
+306,survived,1,female,,0,0,110.8833,C,First,woman,False,,Cherbourg,yes,True
+307,survived,1,female,17.0,1,0,108.9,C,First,woman,False,C,Cherbourg,yes,False
+308,did not survive,2,male,30.0,1,0,24.0,C,Second,man,True,,Cherbourg,no,False
+309,survived,1,female,30.0,0,0,56.9292,C,First,woman,False,E,Cherbourg,yes,True
+310,survived,1,female,24.0,0,0,83.1583,C,First,woman,False,C,Cherbourg,yes,True
+311,survived,1,female,18.0,2,2,262.375,C,First,woman,False,B,Cherbourg,yes,False
+312,did not survive,2,female,26.0,1,1,26.0,S,Second,woman,False,,Southampton,no,False
+313,did not survive,3,male,28.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+314,did not survive,2,male,43.0,1,1,26.25,S,Second,man,True,,Southampton,no,False
+315,survived,3,female,26.0,0,0,7.8542,S,Third,woman,False,,Southampton,yes,True
+316,survived,2,female,24.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False
+317,did not survive,2,male,54.0,0,0,14.0,S,Second,man,True,,Southampton,no,True
+318,survived,1,female,31.0,0,2,164.8667,S,First,woman,False,C,Southampton,yes,False
+319,survived,1,female,40.0,1,1,134.5,C,First,woman,False,E,Cherbourg,yes,False
+320,did not survive,3,male,22.0,0,0,7.25,S,Third,man,True,,Southampton,no,True
+321,did not survive,3,male,27.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+322,survived,2,female,30.0,0,0,12.35,Q,Second,woman,False,,Queenstown,yes,True
+323,survived,2,female,22.0,1,1,29.0,S,Second,woman,False,,Southampton,yes,False
+324,did not survive,3,male,,8,2,69.55,S,Third,man,True,,Southampton,no,False
+325,survived,1,female,36.0,0,0,135.6333,C,First,woman,False,C,Cherbourg,yes,True
+326,did not survive,3,male,61.0,0,0,6.2375,S,Third,man,True,,Southampton,no,True
+327,survived,2,female,36.0,0,0,13.0,S,Second,woman,False,D,Southampton,yes,True
+328,survived,3,female,31.0,1,1,20.525,S,Third,woman,False,,Southampton,yes,False
+329,survived,1,female,16.0,0,1,57.9792,C,First,woman,False,B,Cherbourg,yes,False
+330,survived,3,female,,2,0,23.25,Q,Third,woman,False,,Queenstown,yes,False
+331,did not survive,1,male,45.5,0,0,28.5,S,First,man,True,C,Southampton,no,True
+332,did not survive,1,male,38.0,0,1,153.4625,S,First,man,True,C,Southampton,no,False
+333,did not survive,3,male,16.0,2,0,18.0,S,Third,man,True,,Southampton,no,False
+334,survived,1,female,,1,0,133.65,S,First,woman,False,,Southampton,yes,False
+335,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+336,did not survive,1,male,29.0,1,0,66.6,S,First,man,True,C,Southampton,no,False
+337,survived,1,female,41.0,0,0,134.5,C,First,woman,False,E,Cherbourg,yes,True
+338,survived,3,male,45.0,0,0,8.05,S,Third,man,True,,Southampton,yes,True
+339,did not survive,1,male,45.0,0,0,35.5,S,First,man,True,,Southampton,no,True
+340,survived,2,male,2.0,1,1,26.0,S,Second,child,False,F,Southampton,yes,False
+341,survived,1,female,24.0,3,2,263.0,S,First,woman,False,C,Southampton,yes,False
+342,did not survive,2,male,28.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+343,did not survive,2,male,25.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+344,did not survive,2,male,36.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+345,survived,2,female,24.0,0,0,13.0,S,Second,woman,False,F,Southampton,yes,True
+346,survived,2,female,40.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True
+347,survived,3,female,,1,0,16.1,S,Third,woman,False,,Southampton,yes,False
+348,survived,3,male,3.0,1,1,15.9,S,Third,child,False,,Southampton,yes,False
+349,did not survive,3,male,42.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True
+350,did not survive,3,male,23.0,0,0,9.225,S,Third,man,True,,Southampton,no,True
+351,did not survive,1,male,,0,0,35.0,S,First,man,True,C,Southampton,no,True
+352,did not survive,3,male,15.0,1,1,7.2292,C,Third,child,False,,Cherbourg,no,False
+353,did not survive,3,male,25.0,1,0,17.8,S,Third,man,True,,Southampton,no,False
+354,did not survive,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+355,did not survive,3,male,28.0,0,0,9.5,S,Third,man,True,,Southampton,no,True
+356,survived,1,female,22.0,0,1,55.0,S,First,woman,False,E,Southampton,yes,False
+357,did not survive,2,female,38.0,0,0,13.0,S,Second,woman,False,,Southampton,no,True
+358,survived,3,female,,0,0,7.8792,Q,Third,woman,False,,Queenstown,yes,True
+359,survived,3,female,,0,0,7.8792,Q,Third,woman,False,,Queenstown,yes,True
+360,did not survive,3,male,40.0,1,4,27.9,S,Third,man,True,,Southampton,no,False
+361,did not survive,2,male,29.0,1,0,27.7208,C,Second,man,True,,Cherbourg,no,False
+362,did not survive,3,female,45.0,0,1,14.4542,C,Third,woman,False,,Cherbourg,no,False
+363,did not survive,3,male,35.0,0,0,7.05,S,Third,man,True,,Southampton,no,True
+364,did not survive,3,male,,1,0,15.5,Q,Third,man,True,,Queenstown,no,False
+365,did not survive,3,male,30.0,0,0,7.25,S,Third,man,True,,Southampton,no,True
+366,survived,1,female,60.0,1,0,75.25,C,First,woman,False,D,Cherbourg,yes,False
+367,survived,3,female,,0,0,7.2292,C,Third,woman,False,,Cherbourg,yes,True
+368,survived,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+369,survived,1,female,24.0,0,0,69.3,C,First,woman,False,B,Cherbourg,yes,True
+370,survived,1,male,25.0,1,0,55.4417,C,First,man,True,E,Cherbourg,yes,False
+371,did not survive,3,male,18.0,1,0,6.4958,S,Third,man,True,,Southampton,no,False
+372,did not survive,3,male,19.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+373,did not survive,1,male,22.0,0,0,135.6333,C,First,man,True,,Cherbourg,no,True
+374,did not survive,3,female,3.0,3,1,21.075,S,Third,child,False,,Southampton,no,False
+375,survived,1,female,,1,0,82.1708,C,First,woman,False,,Cherbourg,yes,False
+376,survived,3,female,22.0,0,0,7.25,S,Third,woman,False,,Southampton,yes,True
+377,did not survive,1,male,27.0,0,2,211.5,C,First,man,True,C,Cherbourg,no,False
+378,did not survive,3,male,20.0,0,0,4.0125,C,Third,man,True,,Cherbourg,no,True
+379,did not survive,3,male,19.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+380,survived,1,female,42.0,0,0,227.525,C,First,woman,False,,Cherbourg,yes,True
+381,survived,3,female,1.0,0,2,15.7417,C,Third,child,False,,Cherbourg,yes,False
+382,did not survive,3,male,32.0,0,0,7.925,S,Third,man,True,,Southampton,no,True
+383,survived,1,female,35.0,1,0,52.0,S,First,woman,False,,Southampton,yes,False
+384,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+385,did not survive,2,male,18.0,0,0,73.5,S,Second,man,True,,Southampton,no,True
+386,did not survive,3,male,1.0,5,2,46.9,S,Third,child,False,,Southampton,no,False
+387,survived,2,female,36.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True
+388,did not survive,3,male,,0,0,7.7292,Q,Third,man,True,,Queenstown,no,True
+389,survived,2,female,17.0,0,0,12.0,C,Second,woman,False,,Cherbourg,yes,True
+390,survived,1,male,36.0,1,2,120.0,S,First,man,True,B,Southampton,yes,False
+391,survived,3,male,21.0,0,0,7.7958,S,Third,man,True,,Southampton,yes,True
+392,did not survive,3,male,28.0,2,0,7.925,S,Third,man,True,,Southampton,no,False
+393,survived,1,female,23.0,1,0,113.275,C,First,woman,False,D,Cherbourg,yes,False
+394,survived,3,female,24.0,0,2,16.7,S,Third,woman,False,G,Southampton,yes,False
+395,did not survive,3,male,22.0,0,0,7.7958,S,Third,man,True,,Southampton,no,True
+396,did not survive,3,female,31.0,0,0,7.8542,S,Third,woman,False,,Southampton,no,True
+397,did not survive,2,male,46.0,0,0,26.0,S,Second,man,True,,Southampton,no,True
+398,did not survive,2,male,23.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+399,survived,2,female,28.0,0,0,12.65,S,Second,woman,False,,Southampton,yes,True
+400,survived,3,male,39.0,0,0,7.925,S,Third,man,True,,Southampton,yes,True
+401,did not survive,3,male,26.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+402,did not survive,3,female,21.0,1,0,9.825,S,Third,woman,False,,Southampton,no,False
+403,did not survive,3,male,28.0,1,0,15.85,S,Third,man,True,,Southampton,no,False
+404,did not survive,3,female,20.0,0,0,8.6625,S,Third,woman,False,,Southampton,no,True
+405,did not survive,2,male,34.0,1,0,21.0,S,Second,man,True,,Southampton,no,False
+406,did not survive,3,male,51.0,0,0,7.75,S,Third,man,True,,Southampton,no,True
+407,survived,2,male,3.0,1,1,18.75,S,Second,child,False,,Southampton,yes,False
+408,did not survive,3,male,21.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+409,did not survive,3,female,,3,1,25.4667,S,Third,woman,False,,Southampton,no,False
+410,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+411,did not survive,3,male,,0,0,6.8583,Q,Third,man,True,,Queenstown,no,True
+412,survived,1,female,33.0,1,0,90.0,Q,First,woman,False,C,Queenstown,yes,False
+413,did not survive,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True
+414,survived,3,male,44.0,0,0,7.925,S,Third,man,True,,Southampton,yes,True
+415,did not survive,3,female,,0,0,8.05,S,Third,woman,False,,Southampton,no,True
+416,survived,2,female,34.0,1,1,32.5,S,Second,woman,False,,Southampton,yes,False
+417,survived,2,female,18.0,0,2,13.0,S,Second,woman,False,,Southampton,yes,False
+418,did not survive,2,male,30.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+419,did not survive,3,female,10.0,0,2,24.15,S,Third,child,False,,Southampton,no,False
+420,did not survive,3,male,,0,0,7.8958,C,Third,man,True,,Cherbourg,no,True
+421,did not survive,3,male,21.0,0,0,7.7333,Q,Third,man,True,,Queenstown,no,True
+422,did not survive,3,male,29.0,0,0,7.875,S,Third,man,True,,Southampton,no,True
+423,did not survive,3,female,28.0,1,1,14.4,S,Third,woman,False,,Southampton,no,False
+424,did not survive,3,male,18.0,1,1,20.2125,S,Third,man,True,,Southampton,no,False
+425,did not survive,3,male,,0,0,7.25,S,Third,man,True,,Southampton,no,True
+426,survived,2,female,28.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False
+427,survived,2,female,19.0,0,0,26.0,S,Second,woman,False,,Southampton,yes,True
+428,did not survive,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+429,survived,3,male,32.0,0,0,8.05,S,Third,man,True,E,Southampton,yes,True
+430,survived,1,male,28.0,0,0,26.55,S,First,man,True,C,Southampton,yes,True
+431,survived,3,female,,1,0,16.1,S,Third,woman,False,,Southampton,yes,False
+432,survived,2,female,42.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False
+433,did not survive,3,male,17.0,0,0,7.125,S,Third,man,True,,Southampton,no,True
+434,did not survive,1,male,50.0,1,0,55.9,S,First,man,True,E,Southampton,no,False
+435,survived,1,female,14.0,1,2,120.0,S,First,child,False,B,Southampton,yes,False
+436,did not survive,3,female,21.0,2,2,34.375,S,Third,woman,False,,Southampton,no,False
+437,survived,2,female,24.0,2,3,18.75,S,Second,woman,False,,Southampton,yes,False
+438,did not survive,1,male,64.0,1,4,263.0,S,First,man,True,C,Southampton,no,False
+439,did not survive,2,male,31.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+440,survived,2,female,45.0,1,1,26.25,S,Second,woman,False,,Southampton,yes,False
+441,did not survive,3,male,20.0,0,0,9.5,S,Third,man,True,,Southampton,no,True
+442,did not survive,3,male,25.0,1,0,7.775,S,Third,man,True,,Southampton,no,False
+443,survived,2,female,28.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True
+444,survived,3,male,,0,0,8.1125,S,Third,man,True,,Southampton,yes,True
+445,survived,1,male,4.0,0,2,81.8583,S,First,child,False,A,Southampton,yes,False
+446,survived,2,female,13.0,0,1,19.5,S,Second,child,False,,Southampton,yes,False
+447,survived,1,male,34.0,0,0,26.55,S,First,man,True,,Southampton,yes,True
+448,survived,3,female,5.0,2,1,19.2583,C,Third,child,False,,Cherbourg,yes,False
+449,survived,1,male,52.0,0,0,30.5,S,First,man,True,C,Southampton,yes,True
+450,did not survive,2,male,36.0,1,2,27.75,S,Second,man,True,,Southampton,no,False
+451,did not survive,3,male,,1,0,19.9667,S,Third,man,True,,Southampton,no,False
+452,did not survive,1,male,30.0,0,0,27.75,C,First,man,True,C,Cherbourg,no,True
+453,survived,1,male,49.0,1,0,89.1042,C,First,man,True,C,Cherbourg,yes,False
+454,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+455,survived,3,male,29.0,0,0,7.8958,C,Third,man,True,,Cherbourg,yes,True
+456,did not survive,1,male,65.0,0,0,26.55,S,First,man,True,E,Southampton,no,True
+457,survived,1,female,,1,0,51.8625,S,First,woman,False,D,Southampton,yes,False
+458,survived,2,female,50.0,0,0,10.5,S,Second,woman,False,,Southampton,yes,True
+459,did not survive,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+460,survived,1,male,48.0,0,0,26.55,S,First,man,True,E,Southampton,yes,True
+461,did not survive,3,male,34.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+462,did not survive,1,male,47.0,0,0,38.5,S,First,man,True,E,Southampton,no,True
+463,did not survive,2,male,48.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+464,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+465,did not survive,3,male,38.0,0,0,7.05,S,Third,man,True,,Southampton,no,True
+466,did not survive,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True
+467,did not survive,1,male,56.0,0,0,26.55,S,First,man,True,,Southampton,no,True
+468,did not survive,3,male,,0,0,7.725,Q,Third,man,True,,Queenstown,no,True
+469,survived,3,female,0.75,2,1,19.2583,C,Third,child,False,,Cherbourg,yes,False
+470,did not survive,3,male,,0,0,7.25,S,Third,man,True,,Southampton,no,True
+471,did not survive,3,male,38.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True
+472,survived,2,female,33.0,1,2,27.75,S,Second,woman,False,,Southampton,yes,False
+473,survived,2,female,23.0,0,0,13.7917,C,Second,woman,False,D,Cherbourg,yes,True
+474,did not survive,3,female,22.0,0,0,9.8375,S,Third,woman,False,,Southampton,no,True
+475,did not survive,1,male,,0,0,52.0,S,First,man,True,A,Southampton,no,True
+476,did not survive,2,male,34.0,1,0,21.0,S,Second,man,True,,Southampton,no,False
+477,did not survive,3,male,29.0,1,0,7.0458,S,Third,man,True,,Southampton,no,False
+478,did not survive,3,male,22.0,0,0,7.5208,S,Third,man,True,,Southampton,no,True
+479,survived,3,female,2.0,0,1,12.2875,S,Third,child,False,,Southampton,yes,False
+480,did not survive,3,male,9.0,5,2,46.9,S,Third,child,False,,Southampton,no,False
+481,did not survive,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True
+482,did not survive,3,male,50.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+483,survived,3,female,63.0,0,0,9.5875,S,Third,woman,False,,Southampton,yes,True
+484,survived,1,male,25.0,1,0,91.0792,C,First,man,True,B,Cherbourg,yes,False
+485,did not survive,3,female,,3,1,25.4667,S,Third,woman,False,,Southampton,no,False
+486,survived,1,female,35.0,1,0,90.0,S,First,woman,False,C,Southampton,yes,False
+487,did not survive,1,male,58.0,0,0,29.7,C,First,man,True,B,Cherbourg,no,True
+488,did not survive,3,male,30.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+489,survived,3,male,9.0,1,1,15.9,S,Third,child,False,,Southampton,yes,False
+490,did not survive,3,male,,1,0,19.9667,S,Third,man,True,,Southampton,no,False
+491,did not survive,3,male,21.0,0,0,7.25,S,Third,man,True,,Southampton,no,True
+492,did not survive,1,male,55.0,0,0,30.5,S,First,man,True,C,Southampton,no,True
+493,did not survive,1,male,71.0,0,0,49.5042,C,First,man,True,,Cherbourg,no,True
+494,did not survive,3,male,21.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+495,did not survive,3,male,,0,0,14.4583,C,Third,man,True,,Cherbourg,no,True
+496,survived,1,female,54.0,1,0,78.2667,C,First,woman,False,D,Cherbourg,yes,False
+497,did not survive,3,male,,0,0,15.1,S,Third,man,True,,Southampton,no,True
+498,did not survive,1,female,25.0,1,2,151.55,S,First,woman,False,C,Southampton,no,False
+499,did not survive,3,male,24.0,0,0,7.7958,S,Third,man,True,,Southampton,no,True
+500,did not survive,3,male,17.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True
+501,did not survive,3,female,21.0,0,0,7.75,Q,Third,woman,False,,Queenstown,no,True
+502,did not survive,3,female,,0,0,7.6292,Q,Third,woman,False,,Queenstown,no,True
+503,did not survive,3,female,37.0,0,0,9.5875,S,Third,woman,False,,Southampton,no,True
+504,survived,1,female,16.0,0,0,86.5,S,First,woman,False,B,Southampton,yes,True
+505,did not survive,1,male,18.0,1,0,108.9,C,First,man,True,C,Cherbourg,no,False
+506,survived,2,female,33.0,0,2,26.0,S,Second,woman,False,,Southampton,yes,False
+507,survived,1,male,,0,0,26.55,S,First,man,True,,Southampton,yes,True
+508,did not survive,3,male,28.0,0,0,22.525,S,Third,man,True,,Southampton,no,True
+509,survived,3,male,26.0,0,0,56.4958,S,Third,man,True,,Southampton,yes,True
+510,survived,3,male,29.0,0,0,7.75,Q,Third,man,True,,Queenstown,yes,True
+511,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+512,survived,1,male,36.0,0,0,26.2875,S,First,man,True,E,Southampton,yes,True
+513,survived,1,female,54.0,1,0,59.4,C,First,woman,False,,Cherbourg,yes,False
+514,did not survive,3,male,24.0,0,0,7.4958,S,Third,man,True,,Southampton,no,True
+515,did not survive,1,male,47.0,0,0,34.0208,S,First,man,True,D,Southampton,no,True
+516,survived,2,female,34.0,0,0,10.5,S,Second,woman,False,F,Southampton,yes,True
+517,did not survive,3,male,,0,0,24.15,Q,Third,man,True,,Queenstown,no,True
+518,survived,2,female,36.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False
+519,did not survive,3,male,32.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+520,survived,1,female,30.0,0,0,93.5,S,First,woman,False,B,Southampton,yes,True
+521,did not survive,3,male,22.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+522,did not survive,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+523,survived,1,female,44.0,0,1,57.9792,C,First,woman,False,B,Cherbourg,yes,False
+524,did not survive,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+525,did not survive,3,male,40.5,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+526,survived,2,female,50.0,0,0,10.5,S,Second,woman,False,,Southampton,yes,True
+527,did not survive,1,male,,0,0,221.7792,S,First,man,True,C,Southampton,no,True
+528,did not survive,3,male,39.0,0,0,7.925,S,Third,man,True,,Southampton,no,True
+529,did not survive,2,male,23.0,2,1,11.5,S,Second,man,True,,Southampton,no,False
+530,survived,2,female,2.0,1,1,26.0,S,Second,child,False,,Southampton,yes,False
+531,did not survive,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+532,did not survive,3,male,17.0,1,1,7.2292,C,Third,man,True,,Cherbourg,no,False
+533,survived,3,female,,0,2,22.3583,C,Third,woman,False,,Cherbourg,yes,False
+534,did not survive,3,female,30.0,0,0,8.6625,S,Third,woman,False,,Southampton,no,True
+535,survived,2,female,7.0,0,2,26.25,S,Second,child,False,,Southampton,yes,False
+536,did not survive,1,male,45.0,0,0,26.55,S,First,man,True,B,Southampton,no,True
+537,survived,1,female,30.0,0,0,106.425,C,First,woman,False,,Cherbourg,yes,True
+538,did not survive,3,male,,0,0,14.5,S,Third,man,True,,Southampton,no,True
+539,survived,1,female,22.0,0,2,49.5,C,First,woman,False,B,Cherbourg,yes,False
+540,survived,1,female,36.0,0,2,71.0,S,First,woman,False,B,Southampton,yes,False
+541,did not survive,3,female,9.0,4,2,31.275,S,Third,child,False,,Southampton,no,False
+542,did not survive,3,female,11.0,4,2,31.275,S,Third,child,False,,Southampton,no,False
+543,survived,2,male,32.0,1,0,26.0,S,Second,man,True,,Southampton,yes,False
+544,did not survive,1,male,50.0,1,0,106.425,C,First,man,True,C,Cherbourg,no,False
+545,did not survive,1,male,64.0,0,0,26.0,S,First,man,True,,Southampton,no,True
+546,survived,2,female,19.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False
+547,survived,2,male,,0,0,13.8625,C,Second,man,True,,Cherbourg,yes,True
+548,did not survive,3,male,33.0,1,1,20.525,S,Third,man,True,,Southampton,no,False
+549,survived,2,male,8.0,1,1,36.75,S,Second,child,False,,Southampton,yes,False
+550,survived,1,male,17.0,0,2,110.8833,C,First,man,True,C,Cherbourg,yes,False
+551,did not survive,2,male,27.0,0,0,26.0,S,Second,man,True,,Southampton,no,True
+552,did not survive,3,male,,0,0,7.8292,Q,Third,man,True,,Queenstown,no,True
+553,survived,3,male,22.0,0,0,7.225,C,Third,man,True,,Cherbourg,yes,True
+554,survived,3,female,22.0,0,0,7.775,S,Third,woman,False,,Southampton,yes,True
+555,did not survive,1,male,62.0,0,0,26.55,S,First,man,True,,Southampton,no,True
+556,survived,1,female,48.0,1,0,39.6,C,First,woman,False,A,Cherbourg,yes,False
+557,did not survive,1,male,,0,0,227.525,C,First,man,True,,Cherbourg,no,True
+558,survived,1,female,39.0,1,1,79.65,S,First,woman,False,E,Southampton,yes,False
+559,survived,3,female,36.0,1,0,17.4,S,Third,woman,False,,Southampton,yes,False
+560,did not survive,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+561,did not survive,3,male,40.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+562,did not survive,2,male,28.0,0,0,13.5,S,Second,man,True,,Southampton,no,True
+563,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+564,did not survive,3,female,,0,0,8.05,S,Third,woman,False,,Southampton,no,True
+565,did not survive,3,male,24.0,2,0,24.15,S,Third,man,True,,Southampton,no,False
+566,did not survive,3,male,19.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+567,did not survive,3,female,29.0,0,4,21.075,S,Third,woman,False,,Southampton,no,False
+568,did not survive,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+569,survived,3,male,32.0,0,0,7.8542,S,Third,man,True,,Southampton,yes,True
+570,survived,2,male,62.0,0,0,10.5,S,Second,man,True,,Southampton,yes,True
+571,survived,1,female,53.0,2,0,51.4792,S,First,woman,False,C,Southampton,yes,False
+572,survived,1,male,36.0,0,0,26.3875,S,First,man,True,E,Southampton,yes,True
+573,survived,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True
+574,did not survive,3,male,16.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+575,did not survive,3,male,19.0,0,0,14.5,S,Third,man,True,,Southampton,no,True
+576,survived,2,female,34.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True
+577,survived,1,female,39.0,1,0,55.9,S,First,woman,False,E,Southampton,yes,False
+578,did not survive,3,female,,1,0,14.4583,C,Third,woman,False,,Cherbourg,no,False
+579,survived,3,male,32.0,0,0,7.925,S,Third,man,True,,Southampton,yes,True
+580,survived,2,female,25.0,1,1,30.0,S,Second,woman,False,,Southampton,yes,False
+581,survived,1,female,39.0,1,1,110.8833,C,First,woman,False,C,Cherbourg,yes,False
+582,did not survive,2,male,54.0,0,0,26.0,S,Second,man,True,,Southampton,no,True
+583,did not survive,1,male,36.0,0,0,40.125,C,First,man,True,A,Cherbourg,no,True
+584,did not survive,3,male,,0,0,8.7125,C,Third,man,True,,Cherbourg,no,True
+585,survived,1,female,18.0,0,2,79.65,S,First,woman,False,E,Southampton,yes,False
+586,did not survive,2,male,47.0,0,0,15.0,S,Second,man,True,,Southampton,no,True
+587,survived,1,male,60.0,1,1,79.2,C,First,man,True,B,Cherbourg,yes,False
+588,did not survive,3,male,22.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+589,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+590,did not survive,3,male,35.0,0,0,7.125,S,Third,man,True,,Southampton,no,True
+591,survived,1,female,52.0,1,0,78.2667,C,First,woman,False,D,Cherbourg,yes,False
+592,did not survive,3,male,47.0,0,0,7.25,S,Third,man,True,,Southampton,no,True
+593,did not survive,3,female,,0,2,7.75,Q,Third,woman,False,,Queenstown,no,False
+594,did not survive,2,male,37.0,1,0,26.0,S,Second,man,True,,Southampton,no,False
+595,did not survive,3,male,36.0,1,1,24.15,S,Third,man,True,,Southampton,no,False
+596,survived,2,female,,0,0,33.0,S,Second,woman,False,,Southampton,yes,True
+597,did not survive,3,male,49.0,0,0,0.0,S,Third,man,True,,Southampton,no,True
+598,did not survive,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+599,survived,1,male,49.0,1,0,56.9292,C,First,man,True,A,Cherbourg,yes,False
+600,survived,2,female,24.0,2,1,27.0,S,Second,woman,False,,Southampton,yes,False
+601,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+602,did not survive,1,male,,0,0,42.4,S,First,man,True,,Southampton,no,True
+603,did not survive,3,male,44.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+604,survived,1,male,35.0,0,0,26.55,C,First,man,True,,Cherbourg,yes,True
+605,did not survive,3,male,36.0,1,0,15.55,S,Third,man,True,,Southampton,no,False
+606,did not survive,3,male,30.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+607,survived,1,male,27.0,0,0,30.5,S,First,man,True,,Southampton,yes,True
+608,survived,2,female,22.0,1,2,41.5792,C,Second,woman,False,,Cherbourg,yes,False
+609,survived,1,female,40.0,0,0,153.4625,S,First,woman,False,C,Southampton,yes,True
+610,did not survive,3,female,39.0,1,5,31.275,S,Third,woman,False,,Southampton,no,False
+611,did not survive,3,male,,0,0,7.05,S,Third,man,True,,Southampton,no,True
+612,survived,3,female,,1,0,15.5,Q,Third,woman,False,,Queenstown,yes,False
+613,did not survive,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+614,did not survive,3,male,35.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+615,survived,2,female,24.0,1,2,65.0,S,Second,woman,False,,Southampton,yes,False
+616,did not survive,3,male,34.0,1,1,14.4,S,Third,man,True,,Southampton,no,False
+617,did not survive,3,female,26.0,1,0,16.1,S,Third,woman,False,,Southampton,no,False
+618,survived,2,female,4.0,2,1,39.0,S,Second,child,False,F,Southampton,yes,False
+619,did not survive,2,male,26.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+620,did not survive,3,male,27.0,1,0,14.4542,C,Third,man,True,,Cherbourg,no,False
+621,survived,1,male,42.0,1,0,52.5542,S,First,man,True,D,Southampton,yes,False
+622,survived,3,male,20.0,1,1,15.7417,C,Third,man,True,,Cherbourg,yes,False
+623,did not survive,3,male,21.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True
+624,did not survive,3,male,21.0,0,0,16.1,S,Third,man,True,,Southampton,no,True
+625,did not survive,1,male,61.0,0,0,32.3208,S,First,man,True,D,Southampton,no,True
+626,did not survive,2,male,57.0,0,0,12.35,Q,Second,man,True,,Queenstown,no,True
+627,survived,1,female,21.0,0,0,77.9583,S,First,woman,False,D,Southampton,yes,True
+628,did not survive,3,male,26.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+629,did not survive,3,male,,0,0,7.7333,Q,Third,man,True,,Queenstown,no,True
+630,survived,1,male,80.0,0,0,30.0,S,First,man,True,A,Southampton,yes,True
+631,did not survive,3,male,51.0,0,0,7.0542,S,Third,man,True,,Southampton,no,True
+632,survived,1,male,32.0,0,0,30.5,C,First,man,True,B,Cherbourg,yes,True
+633,did not survive,1,male,,0,0,0.0,S,First,man,True,,Southampton,no,True
+634,did not survive,3,female,9.0,3,2,27.9,S,Third,child,False,,Southampton,no,False
+635,survived,2,female,28.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True
+636,did not survive,3,male,32.0,0,0,7.925,S,Third,man,True,,Southampton,no,True
+637,did not survive,2,male,31.0,1,1,26.25,S,Second,man,True,,Southampton,no,False
+638,did not survive,3,female,41.0,0,5,39.6875,S,Third,woman,False,,Southampton,no,False
+639,did not survive,3,male,,1,0,16.1,S,Third,man,True,,Southampton,no,False
+640,did not survive,3,male,20.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True
+641,survived,1,female,24.0,0,0,69.3,C,First,woman,False,B,Cherbourg,yes,True
+642,did not survive,3,female,2.0,3,2,27.9,S,Third,child,False,,Southampton,no,False
+643,survived,3,male,,0,0,56.4958,S,Third,man,True,,Southampton,yes,True
+644,survived,3,female,0.75,2,1,19.2583,C,Third,child,False,,Cherbourg,yes,False
+645,survived,1,male,48.0,1,0,76.7292,C,First,man,True,D,Cherbourg,yes,False
+646,did not survive,3,male,19.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+647,survived,1,male,56.0,0,0,35.5,C,First,man,True,A,Cherbourg,yes,True
+648,did not survive,3,male,,0,0,7.55,S,Third,man,True,,Southampton,no,True
+649,survived,3,female,23.0,0,0,7.55,S,Third,woman,False,,Southampton,yes,True
+650,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+651,survived,2,female,18.0,0,1,23.0,S,Second,woman,False,,Southampton,yes,False
+652,did not survive,3,male,21.0,0,0,8.4333,S,Third,man,True,,Southampton,no,True
+653,survived,3,female,,0,0,7.8292,Q,Third,woman,False,,Queenstown,yes,True
+654,did not survive,3,female,18.0,0,0,6.75,Q,Third,woman,False,,Queenstown,no,True
+655,did not survive,2,male,24.0,2,0,73.5,S,Second,man,True,,Southampton,no,False
+656,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+657,did not survive,3,female,32.0,1,1,15.5,Q,Third,woman,False,,Queenstown,no,False
+658,did not survive,2,male,23.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+659,did not survive,1,male,58.0,0,2,113.275,C,First,man,True,D,Cherbourg,no,False
+660,survived,1,male,50.0,2,0,133.65,S,First,man,True,,Southampton,yes,False
+661,did not survive,3,male,40.0,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+662,did not survive,1,male,47.0,0,0,25.5875,S,First,man,True,E,Southampton,no,True
+663,did not survive,3,male,36.0,0,0,7.4958,S,Third,man,True,,Southampton,no,True
+664,survived,3,male,20.0,1,0,7.925,S,Third,man,True,,Southampton,yes,False
+665,did not survive,2,male,32.0,2,0,73.5,S,Second,man,True,,Southampton,no,False
+666,did not survive,2,male,25.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+667,did not survive,3,male,,0,0,7.775,S,Third,man,True,,Southampton,no,True
+668,did not survive,3,male,43.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+669,survived,1,female,,1,0,52.0,S,First,woman,False,C,Southampton,yes,False
+670,survived,2,female,40.0,1,1,39.0,S,Second,woman,False,,Southampton,yes,False
+671,did not survive,1,male,31.0,1,0,52.0,S,First,man,True,B,Southampton,no,False
+672,did not survive,2,male,70.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+673,survived,2,male,31.0,0,0,13.0,S,Second,man,True,,Southampton,yes,True
+674,did not survive,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True
+675,did not survive,3,male,18.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+676,did not survive,3,male,24.5,0,0,8.05,S,Third,man,True,,Southampton,no,True
+677,survived,3,female,18.0,0,0,9.8417,S,Third,woman,False,,Southampton,yes,True
+678,did not survive,3,female,43.0,1,6,46.9,S,Third,woman,False,,Southampton,no,False
+679,survived,1,male,36.0,0,1,512.3292,C,First,man,True,B,Cherbourg,yes,False
+680,did not survive,3,female,,0,0,8.1375,Q,Third,woman,False,,Queenstown,no,True
+681,survived,1,male,27.0,0,0,76.7292,C,First,man,True,D,Cherbourg,yes,True
+682,did not survive,3,male,20.0,0,0,9.225,S,Third,man,True,,Southampton,no,True
+683,did not survive,3,male,14.0,5,2,46.9,S,Third,child,False,,Southampton,no,False
+684,did not survive,2,male,60.0,1,1,39.0,S,Second,man,True,,Southampton,no,False
+685,did not survive,2,male,25.0,1,2,41.5792,C,Second,man,True,,Cherbourg,no,False
+686,did not survive,3,male,14.0,4,1,39.6875,S,Third,child,False,,Southampton,no,False
+687,did not survive,3,male,19.0,0,0,10.1708,S,Third,man,True,,Southampton,no,True
+688,did not survive,3,male,18.0,0,0,7.7958,S,Third,man,True,,Southampton,no,True
+689,survived,1,female,15.0,0,1,211.3375,S,First,child,False,B,Southampton,yes,False
+690,survived,1,male,31.0,1,0,57.0,S,First,man,True,B,Southampton,yes,False
+691,survived,3,female,4.0,0,1,13.4167,C,Third,child,False,,Cherbourg,yes,False
+692,survived,3,male,,0,0,56.4958,S,Third,man,True,,Southampton,yes,True
+693,did not survive,3,male,25.0,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+694,did not survive,1,male,60.0,0,0,26.55,S,First,man,True,,Southampton,no,True
+695,did not survive,2,male,52.0,0,0,13.5,S,Second,man,True,,Southampton,no,True
+696,did not survive,3,male,44.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+697,survived,3,female,,0,0,7.7333,Q,Third,woman,False,,Queenstown,yes,True
+698,did not survive,1,male,49.0,1,1,110.8833,C,First,man,True,C,Cherbourg,no,False
+699,did not survive,3,male,42.0,0,0,7.65,S,Third,man,True,F,Southampton,no,True
+700,survived,1,female,18.0,1,0,227.525,C,First,woman,False,C,Cherbourg,yes,False
+701,survived,1,male,35.0,0,0,26.2875,S,First,man,True,E,Southampton,yes,True
+702,did not survive,3,female,18.0,0,1,14.4542,C,Third,woman,False,,Cherbourg,no,False
+703,did not survive,3,male,25.0,0,0,7.7417,Q,Third,man,True,,Queenstown,no,True
+704,did not survive,3,male,26.0,1,0,7.8542,S,Third,man,True,,Southampton,no,False
+705,did not survive,2,male,39.0,0,0,26.0,S,Second,man,True,,Southampton,no,True
+706,survived,2,female,45.0,0,0,13.5,S,Second,woman,False,,Southampton,yes,True
+707,survived,1,male,42.0,0,0,26.2875,S,First,man,True,E,Southampton,yes,True
+708,survived,1,female,22.0,0,0,151.55,S,First,woman,False,,Southampton,yes,True
+709,survived,3,male,,1,1,15.2458,C,Third,man,True,,Cherbourg,yes,False
+710,survived,1,female,24.0,0,0,49.5042,C,First,woman,False,C,Cherbourg,yes,True
+711,did not survive,1,male,,0,0,26.55,S,First,man,True,C,Southampton,no,True
+712,survived,1,male,48.0,1,0,52.0,S,First,man,True,C,Southampton,yes,False
+713,did not survive,3,male,29.0,0,0,9.4833,S,Third,man,True,,Southampton,no,True
+714,did not survive,2,male,52.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+715,did not survive,3,male,19.0,0,0,7.65,S,Third,man,True,F,Southampton,no,True
+716,survived,1,female,38.0,0,0,227.525,C,First,woman,False,C,Cherbourg,yes,True
+717,survived,2,female,27.0,0,0,10.5,S,Second,woman,False,E,Southampton,yes,True
+718,did not survive,3,male,,0,0,15.5,Q,Third,man,True,,Queenstown,no,True
+719,did not survive,3,male,33.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+720,survived,2,female,6.0,0,1,33.0,S,Second,child,False,,Southampton,yes,False
+721,did not survive,3,male,17.0,1,0,7.0542,S,Third,man,True,,Southampton,no,False
+722,did not survive,2,male,34.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+723,did not survive,2,male,50.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+724,survived,1,male,27.0,1,0,53.1,S,First,man,True,E,Southampton,yes,False
+725,did not survive,3,male,20.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True
+726,survived,2,female,30.0,3,0,21.0,S,Second,woman,False,,Southampton,yes,False
+727,survived,3,female,,0,0,7.7375,Q,Third,woman,False,,Queenstown,yes,True
+728,did not survive,2,male,25.0,1,0,26.0,S,Second,man,True,,Southampton,no,False
+729,did not survive,3,female,25.0,1,0,7.925,S,Third,woman,False,,Southampton,no,False
+730,survived,1,female,29.0,0,0,211.3375,S,First,woman,False,B,Southampton,yes,True
+731,did not survive,3,male,11.0,0,0,18.7875,C,Third,child,False,,Cherbourg,no,True
+732,did not survive,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True
+733,did not survive,2,male,23.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+734,did not survive,2,male,23.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+735,did not survive,3,male,28.5,0,0,16.1,S,Third,man,True,,Southampton,no,True
+736,did not survive,3,female,48.0,1,3,34.375,S,Third,woman,False,,Southampton,no,False
+737,survived,1,male,35.0,0,0,512.3292,C,First,man,True,B,Cherbourg,yes,True
+738,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+739,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+740,survived,1,male,,0,0,30.0,S,First,man,True,D,Southampton,yes,True
+741,did not survive,1,male,36.0,1,0,78.85,S,First,man,True,C,Southampton,no,False
+742,survived,1,female,21.0,2,2,262.375,C,First,woman,False,B,Cherbourg,yes,False
+743,did not survive,3,male,24.0,1,0,16.1,S,Third,man,True,,Southampton,no,False
+744,survived,3,male,31.0,0,0,7.925,S,Third,man,True,,Southampton,yes,True
+745,did not survive,1,male,70.0,1,1,71.0,S,First,man,True,B,Southampton,no,False
+746,did not survive,3,male,16.0,1,1,20.25,S,Third,man,True,,Southampton,no,False
+747,survived,2,female,30.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True
+748,did not survive,1,male,19.0,1,0,53.1,S,First,man,True,D,Southampton,no,False
+749,did not survive,3,male,31.0,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+750,survived,2,female,4.0,1,1,23.0,S,Second,child,False,,Southampton,yes,False
+751,survived,3,male,6.0,0,1,12.475,S,Third,child,False,E,Southampton,yes,False
+752,did not survive,3,male,33.0,0,0,9.5,S,Third,man,True,,Southampton,no,True
+753,did not survive,3,male,23.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+754,survived,2,female,48.0,1,2,65.0,S,Second,woman,False,,Southampton,yes,False
+755,survived,2,male,0.67,1,1,14.5,S,Second,child,False,,Southampton,yes,False
+756,did not survive,3,male,28.0,0,0,7.7958,S,Third,man,True,,Southampton,no,True
+757,did not survive,2,male,18.0,0,0,11.5,S,Second,man,True,,Southampton,no,True
+758,did not survive,3,male,34.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
+759,survived,1,female,33.0,0,0,86.5,S,First,woman,False,B,Southampton,yes,True
+760,did not survive,3,male,,0,0,14.5,S,Third,man,True,,Southampton,no,True
+761,did not survive,3,male,41.0,0,0,7.125,S,Third,man,True,,Southampton,no,True
+762,survived,3,male,20.0,0,0,7.2292,C,Third,man,True,,Cherbourg,yes,True
+763,survived,1,female,36.0,1,2,120.0,S,First,woman,False,B,Southampton,yes,False
+764,did not survive,3,male,16.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+765,survived,1,female,51.0,1,0,77.9583,S,First,woman,False,D,Southampton,yes,False
+766,did not survive,1,male,,0,0,39.6,C,First,man,True,,Cherbourg,no,True
+767,did not survive,3,female,30.5,0,0,7.75,Q,Third,woman,False,,Queenstown,no,True
+768,did not survive,3,male,,1,0,24.15,Q,Third,man,True,,Queenstown,no,False
+769,did not survive,3,male,32.0,0,0,8.3625,S,Third,man,True,,Southampton,no,True
+770,did not survive,3,male,24.0,0,0,9.5,S,Third,man,True,,Southampton,no,True
+771,did not survive,3,male,48.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True
+772,did not survive,2,female,57.0,0,0,10.5,S,Second,woman,False,E,Southampton,no,True
+773,did not survive,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True
+774,survived,2,female,54.0,1,3,23.0,S,Second,woman,False,,Southampton,yes,False
+775,did not survive,3,male,18.0,0,0,7.75,S,Third,man,True,,Southampton,no,True
+776,did not survive,3,male,,0,0,7.75,Q,Third,man,True,F,Queenstown,no,True
+777,survived,3,female,5.0,0,0,12.475,S,Third,child,False,,Southampton,yes,True
+778,did not survive,3,male,,0,0,7.7375,Q,Third,man,True,,Queenstown,no,True
+779,survived,1,female,43.0,0,1,211.3375,S,First,woman,False,B,Southampton,yes,False
+780,survived,3,female,13.0,0,0,7.2292,C,Third,child,False,,Cherbourg,yes,True
+781,survived,1,female,17.0,1,0,57.0,S,First,woman,False,B,Southampton,yes,False
+782,did not survive,1,male,29.0,0,0,30.0,S,First,man,True,D,Southampton,no,True
+783,did not survive,3,male,,1,2,23.45,S,Third,man,True,,Southampton,no,False
+784,did not survive,3,male,25.0,0,0,7.05,S,Third,man,True,,Southampton,no,True
+785,did not survive,3,male,25.0,0,0,7.25,S,Third,man,True,,Southampton,no,True
+786,survived,3,female,18.0,0,0,7.4958,S,Third,woman,False,,Southampton,yes,True
+787,did not survive,3,male,8.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False
+788,survived,3,male,1.0,1,2,20.575,S,Third,child,False,,Southampton,yes,False
+789,did not survive,1,male,46.0,0,0,79.2,C,First,man,True,B,Cherbourg,no,True
+790,did not survive,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
+791,did not survive,2,male,16.0,0,0,26.0,S,Second,man,True,,Southampton,no,True
+792,did not survive,3,female,,8,2,69.55,S,Third,woman,False,,Southampton,no,False
+793,did not survive,1,male,,0,0,30.6958,C,First,man,True,,Cherbourg,no,True
+794,did not survive,3,male,25.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+795,did not survive,2,male,39.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+796,survived,1,female,49.0,0,0,25.9292,S,First,woman,False,D,Southampton,yes,True
+797,survived,3,female,31.0,0,0,8.6833,S,Third,woman,False,,Southampton,yes,True
+798,did not survive,3,male,30.0,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+799,did not survive,3,female,30.0,1,1,24.15,S,Third,woman,False,,Southampton,no,False
+800,did not survive,2,male,34.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+801,survived,2,female,31.0,1,1,26.25,S,Second,woman,False,,Southampton,yes,False
+802,survived,1,male,11.0,1,2,120.0,S,First,child,False,B,Southampton,yes,False
+803,survived,3,male,0.42,0,1,8.5167,C,Third,child,False,,Cherbourg,yes,False
+804,survived,3,male,27.0,0,0,6.975,S,Third,man,True,,Southampton,yes,True
+805,did not survive,3,male,31.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+806,did not survive,1,male,39.0,0,0,0.0,S,First,man,True,A,Southampton,no,True
+807,did not survive,3,female,18.0,0,0,7.775,S,Third,woman,False,,Southampton,no,True
+808,did not survive,2,male,39.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+809,survived,1,female,33.0,1,0,53.1,S,First,woman,False,E,Southampton,yes,False
+810,did not survive,3,male,26.0,0,0,7.8875,S,Third,man,True,,Southampton,no,True
+811,did not survive,3,male,39.0,0,0,24.15,S,Third,man,True,,Southampton,no,True
+812,did not survive,2,male,35.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+813,did not survive,3,female,6.0,4,2,31.275,S,Third,child,False,,Southampton,no,False
+814,did not survive,3,male,30.5,0,0,8.05,S,Third,man,True,,Southampton,no,True
+815,did not survive,1,male,,0,0,0.0,S,First,man,True,B,Southampton,no,True
+816,did not survive,3,female,23.0,0,0,7.925,S,Third,woman,False,,Southampton,no,True
+817,did not survive,2,male,31.0,1,1,37.0042,C,Second,man,True,,Cherbourg,no,False
+818,did not survive,3,male,43.0,0,0,6.45,S,Third,man,True,,Southampton,no,True
+819,did not survive,3,male,10.0,3,2,27.9,S,Third,child,False,,Southampton,no,False
+820,survived,1,female,52.0,1,1,93.5,S,First,woman,False,B,Southampton,yes,False
+821,survived,3,male,27.0,0,0,8.6625,S,Third,man,True,,Southampton,yes,True
+822,did not survive,1,male,38.0,0,0,0.0,S,First,man,True,,Southampton,no,True
+823,survived,3,female,27.0,0,1,12.475,S,Third,woman,False,E,Southampton,yes,False
+824,did not survive,3,male,2.0,4,1,39.6875,S,Third,child,False,,Southampton,no,False
+825,did not survive,3,male,,0,0,6.95,Q,Third,man,True,,Queenstown,no,True
+826,did not survive,3,male,,0,0,56.4958,S,Third,man,True,,Southampton,no,True
+827,survived,2,male,1.0,0,2,37.0042,C,Second,child,False,,Cherbourg,yes,False
+828,survived,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,yes,True
+829,survived,1,female,62.0,0,0,80.0,,First,woman,False,B,,yes,True
+830,survived,3,female,15.0,1,0,14.4542,C,Third,child,False,,Cherbourg,yes,False
+831,survived,2,male,0.83,1,1,18.75,S,Second,child,False,,Southampton,yes,False
+832,did not survive,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+833,did not survive,3,male,23.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True
+834,did not survive,3,male,18.0,0,0,8.3,S,Third,man,True,,Southampton,no,True
+835,survived,1,female,39.0,1,1,83.1583,C,First,woman,False,E,Cherbourg,yes,False
+836,did not survive,3,male,21.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True
+837,did not survive,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True
+838,survived,3,male,32.0,0,0,56.4958,S,Third,man,True,,Southampton,yes,True
+839,survived,1,male,,0,0,29.7,C,First,man,True,C,Cherbourg,yes,True
+840,did not survive,3,male,20.0,0,0,7.925,S,Third,man,True,,Southampton,no,True
+841,did not survive,2,male,16.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+842,survived,1,female,30.0,0,0,31.0,C,First,woman,False,,Cherbourg,yes,True
+843,did not survive,3,male,34.5,0,0,6.4375,C,Third,man,True,,Cherbourg,no,True
+844,did not survive,3,male,17.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True
+845,did not survive,3,male,42.0,0,0,7.55,S,Third,man,True,,Southampton,no,True
+846,did not survive,3,male,,8,2,69.55,S,Third,man,True,,Southampton,no,False
+847,did not survive,3,male,35.0,0,0,7.8958,C,Third,man,True,,Cherbourg,no,True
+848,did not survive,2,male,28.0,0,1,33.0,S,Second,man,True,,Southampton,no,False
+849,survived,1,female,,1,0,89.1042,C,First,woman,False,C,Cherbourg,yes,False
+850,did not survive,3,male,4.0,4,2,31.275,S,Third,child,False,,Southampton,no,False
+851,did not survive,3,male,74.0,0,0,7.775,S,Third,man,True,,Southampton,no,True
+852,did not survive,3,female,9.0,1,1,15.2458,C,Third,child,False,,Cherbourg,no,False
+853,survived,1,female,16.0,0,1,39.4,S,First,woman,False,D,Southampton,yes,False
+854,did not survive,2,female,44.0,1,0,26.0,S,Second,woman,False,,Southampton,no,False
+855,survived,3,female,18.0,0,1,9.35,S,Third,woman,False,,Southampton,yes,False
+856,survived,1,female,45.0,1,1,164.8667,S,First,woman,False,,Southampton,yes,False
+857,survived,1,male,51.0,0,0,26.55,S,First,man,True,E,Southampton,yes,True
+858,survived,3,female,24.0,0,3,19.2583,C,Third,woman,False,,Cherbourg,yes,False
+859,did not survive,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True
+860,did not survive,3,male,41.0,2,0,14.1083,S,Third,man,True,,Southampton,no,False
+861,did not survive,2,male,21.0,1,0,11.5,S,Second,man,True,,Southampton,no,False
+862,survived,1,female,48.0,0,0,25.9292,S,First,woman,False,D,Southampton,yes,True
+863,did not survive,3,female,,8,2,69.55,S,Third,woman,False,,Southampton,no,False
+864,did not survive,2,male,24.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+865,survived,2,female,42.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True
+866,survived,2,female,27.0,1,0,13.8583,C,Second,woman,False,,Cherbourg,yes,False
+867,did not survive,1,male,31.0,0,0,50.4958,S,First,man,True,A,Southampton,no,True
+868,did not survive,3,male,,0,0,9.5,S,Third,man,True,,Southampton,no,True
+869,survived,3,male,4.0,1,1,11.1333,S,Third,child,False,,Southampton,yes,False
+870,did not survive,3,male,26.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+871,survived,1,female,47.0,1,1,52.5542,S,First,woman,False,D,Southampton,yes,False
+872,did not survive,1,male,33.0,0,0,5.0,S,First,man,True,B,Southampton,no,True
+873,did not survive,3,male,47.0,0,0,9.0,S,Third,man,True,,Southampton,no,True
+874,survived,2,female,28.0,1,0,24.0,C,Second,woman,False,,Cherbourg,yes,False
+875,survived,3,female,15.0,0,0,7.225,C,Third,child,False,,Cherbourg,yes,True
+876,did not survive,3,male,20.0,0,0,9.8458,S,Third,man,True,,Southampton,no,True
+877,did not survive,3,male,19.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+878,did not survive,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+879,survived,1,female,56.0,0,1,83.1583,C,First,woman,False,C,Cherbourg,yes,False
+880,survived,2,female,25.0,0,1,26.0,S,Second,woman,False,,Southampton,yes,False
+881,did not survive,3,male,33.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True
+882,did not survive,3,female,22.0,0,0,10.5167,S,Third,woman,False,,Southampton,no,True
+883,did not survive,2,male,28.0,0,0,10.5,S,Second,man,True,,Southampton,no,True
+884,did not survive,3,male,25.0,0,0,7.05,S,Third,man,True,,Southampton,no,True
+885,did not survive,3,female,39.0,0,5,29.125,Q,Third,woman,False,,Queenstown,no,False
+886,did not survive,2,male,27.0,0,0,13.0,S,Second,man,True,,Southampton,no,True
+887,survived,1,female,19.0,0,0,30.0,S,First,woman,False,B,Southampton,yes,True
+888,did not survive,3,female,,1,2,23.45,S,Third,woman,False,,Southampton,no,False
+889,survived,1,male,26.0,0,0,30.0,C,First,man,True,C,Cherbourg,yes,True
+890,did not survive,3,male,32.0,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
